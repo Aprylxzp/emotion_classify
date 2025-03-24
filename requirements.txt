@@ -1,0 +1,8 @@
+numpy==2.2.4
+paddlehub==2.4.0
+paddlepaddle_gpu==3.0.0rc1
+pandas==2.2.3
+scikit_learn==1.2.2
+tqdm==4.65.0
+tqdm==4.66.5
+tqdm==4.67.1
