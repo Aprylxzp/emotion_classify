@@ -1,5 +1,5 @@
 # emotion_classify
-本地复现基于OCEMOTION的中文微情感分析系统
+本地复现基于OCEMOTION的中文微情感分析系统（自用）
 ## 参考资料
 
 > github项目[Emotion-analysis-system](https://github.com/hchhtc123/Emotion-analysis-system)
